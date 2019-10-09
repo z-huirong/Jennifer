@@ -10,5 +10,5 @@ for line in lines[1:]:
     price = int(columns[9])
     if price >= int(v1) and price <= int(v2):
         print(line)
-    print(line)
+    testing
 
